@@ -1,2 +1,2 @@
-# Ovocytes-Mtocs
-imageJ plugins to quantify mtocs positions in Ovocytes
+# Ovocytes Analyze
+imageJ plugins to analyze actine vesicle positions in Ovocytes
